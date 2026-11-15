@@ -1,0 +1,8 @@
+{
+  "name": "Página Preta",
+  "description": "Uma página minimalista totalmente preta (#000000) com modo tela cheia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
